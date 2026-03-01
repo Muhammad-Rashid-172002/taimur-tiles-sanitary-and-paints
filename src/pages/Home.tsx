@@ -190,7 +190,7 @@ const Home = () => {
             <div className="relative inline-block">
               <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-secondary mx-auto shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=400"
+                  src="/images/ceo.jpeg"
                   alt="CEO"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

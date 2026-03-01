@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<!-- <div align="center">
+  <img width="1200" height="475" alt="Website Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div> -->
 
-# Run and deploy your AI Studio app
+# Taimur Tiles Sanitary & Paint Store – Business Website
 
-This contains everything you need to run your app locally.
+A modern, responsive, and professional business website developed for **Taimur Tiles Sanitary and Paint Store**, designed to showcase products, services, and contact information with a premium look and smooth user experience.
 
-View your app in AI Studio: https://ai.studio/apps/f93bfab7-4183-4835-a765-6af9e2a9a8c3
+---
 
-## Run Locally
+## 🌐 Project Overview
 
-**Prerequisites:**  Node.js
+This website is created to provide:
 
+- Online business presence  
+- Product catalog display  
+- Customer engagement  
+- Easy contact and location access  
+- Mobile-friendly browsing experience  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ✨ Features
+
+- Premium UI design (Dark Blue + White + Gold theme)  
+- Fully responsive layout  
+- Sticky navigation bar  
+- Smooth animations & transitions  
+- Interactive product categories  
+- Separate product pages (No popup/dialog)  
+- Product gallery slider  
+- WhatsApp floating button  
+- SEO optimized structure  
+- Professional footer with Google Map  
+
+---
+
+## 🏗️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Node.js (for development environment)  
+
+---
+
+## 📁 Project Structure
