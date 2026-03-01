@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0A192F;
+  --color-secondary: #C5A059;
+  --color-accent: #F8F9FA;
+  
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", serif;
+}
+
+@layer base {
+  body {
+    @apply bg-accent text-primary font-sans;
+  }
+}
+
+.glass-nav {
+  @apply bg-primary/90 backdrop-blur-md border-b border-white/10;
+}
+
+.gold-gradient {
+  background: linear-gradient(135deg, #C5A059 0%, #E2C285 100%);
+}
+
+.text-gold {
+  @apply text-secondary;
+}
+
+.bg-gold {
+  @apply bg-secondary;
+}
+
+.border-gold {
+  @apply border-secondary;
+}
