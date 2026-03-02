@@ -63,7 +63,7 @@ export const PRODUCTS: Record<string, Product[]> = {
     { id: 's2', name: 'English Style Commode', brand: 'IFO', description: 'Premium English commodes with efficient flushing systems.', image: '/images/english style commode.jpeg' },
     { id: 's3', name: 'Indian Style Commode', brand: 'Standard', description: 'Durable and easy-to-clean Indian style commodes.', image: '/images/indian-commond.jpg' },
     { id: 's4', name: 'Wall Shower Set', brand: 'Faisal', description: 'High-pressure wall showers for a refreshing experience.', image: '/images/wall shower set.jpeg' },
-    { id: 's5', name: 'Floor Waste Drain', brand: 'Sunlight', description: 'Stainless steel floor wastes for superior drainage.', image: '/images/sanitary-ware5.jpeg' }
+    { id: 's5', name: 'Floor Waste Drain', brand: 'Sunlight', description: 'Stainless steel floor wastes for superior drainage.', image: '/images/Floor Waste Drain.webp' }
   ],
   'cp-fittings': [
     { id: 'c1', name: 'Premium Basin Mixer', brand: 'Faisal', description: 'Stylish mixers with smooth operation and long life.', image: '/images/cp-fittings1.jpeg' },
