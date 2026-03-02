@@ -67,20 +67,20 @@ export const PRODUCTS: Record<string, Product[]> = {
   ],
   'cp-fittings': [
     { id: 'c1', name: 'Premium Basin Mixer', brand: 'Faisal', description: 'Stylish mixers with smooth operation and long life.', image: '/images/cp-fittings1.jpeg' },
-    { id: 'c2', name: 'Kitchen Sink Tap', brand: 'Millat', description: 'Flexible and durable taps for modern kitchens.', image: '/images/cp-fittings2.jpeg' },
+    { id: 'c2', name: 'Kitchen Sink Tap', brand: 'Millat', description: 'Flexible and durable taps for modern kitchens.', image: '/images/Kitchen Sink Tap.jpeg' },
     { id: 'c3', name: 'Wall Mounted Tap', brand: 'Faizal', description: 'Space-saving wall taps with elegant chrome finish.', image: '/images/cp-fittings3.jpeg' },
-    { id: 'c4', name: 'Shower Mixer', brand: 'Polo', description: 'High-quality mixers for controlled water temperature.', image: '/images/cp-fittings4.jpeg' }
+    { id: 'c4', name: 'Shower Mixer', brand: 'Polo', description: 'High-quality mixers for controlled water temperature.', image: '/images/Shower Mixer.jpeg' }
   ],
   'bonds-grouts': [
     { id: 'b1', name: 'Strong Tile Bond', brand: 'Shabbir', description: 'Industrial strength adhesive for large format tiles.', image: '/images/bonds-grouts1.jpeg' },
-    { id: 'b2', name: 'Waterproof Tile Grout', brand: 'Aqua', description: 'Stain-resistant grout for a clean and lasting finish.', image: '/images/bonds-grouts2.jpeg' },
+    { id: 'b2', name: 'Waterproof Tile Grout', brand: 'Aqua', description: 'Stain-resistant grout for a clean and lasting finish.', image: '/images/Waterproof Tile Grout.jpeg' },
     { id: 'b3', name: 'Sika Adhesive', brand: 'Sika', description: 'World-renowned adhesive for specialized construction.', image: '/images/bonds-grouts3.jpeg' },
-    { id: 'b4', name: 'Sea Star Bond', brand: 'Sea Star', description: 'Reliable and affordable bonding solutions.', image: '/images/bonds-grouts4.jpeg' }
+    { id: 'b4', name: 'Sea Star Bond', brand: 'Sea Star', description: 'Reliable and affordable bonding solutions.', image: '/images/Sea Star Bond.jpeg' }
   ],
   'paint': [
-    { id: 'pa1', name: 'Interior Plastic Emulsion', brand: 'Master', description: 'Washable and smooth finish for interior walls.', image: '/images/paint1.jpeg' },
-    { id: 'pa2', name: 'Exterior Weather Shield', brand: 'Brighto', description: 'Maximum protection against harsh weather conditions.', image: '/images/paint2.jpeg' },
-    { id: 'pa3', name: 'Glossy Enamel Paint', brand: 'Berger', description: 'High-gloss finish for wood and metal surfaces.', image: '/images/paint3.jpeg' }
+    { id: 'pa1', name: 'Interior Plastic Emulsion', brand: 'Master', description: 'Washable and smooth finish for interior walls.', image: '/images/paint.jpeg' },
+    { id: 'pa2', name: 'Exterior Weather Shield', brand: 'Brighto', description: 'Maximum protection against harsh weather conditions.', image: '/images/Exterior Weather Shield.jpeg' },
+    { id: 'pa3', name: 'Glossy Enamel Paint', brand: 'Berger', description: 'High-gloss finish for wood and metal surfaces.', image: '/images/gloss.jpeg' }
   ]
 };
 

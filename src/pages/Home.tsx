@@ -187,19 +187,20 @@ const Home = () => {
             viewport={{ once: true }}
             className="space-y-8"
           >
-            <div className="relative inline-block">
-              <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-secondary mx-auto shadow-2xl">
-                <img
-                  src="/images/ceo.jpeg"
-                  alt="CEO"
-                  className="w-full h-full object-cover"
-                  referrerPolicy="no-referrer"
-                />
-              </div>
-              <div className="absolute -bottom-2 -right-2 bg-secondary p-3 rounded-full text-primary">
-                <Quote size={24} />
-              </div>
-            </div>
+           <div className="relative inline-block">
+  <div className="w-56 h-56 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-secondary mx-auto shadow-2xl">
+    <img
+      src="/images/ceo.jpeg"
+      alt="CEO"
+      className="w-full h-full object-cover object-top"
+      referrerPolicy="no-referrer"
+    />
+  </div>
+
+  <div className="absolute -bottom-2 -right-2 bg-secondary p-3 rounded-full text-primary">
+    <Quote size={28} />
+  </div>
+</div>
             
             <div className="space-y-4">
               <h3 className="text-secondary font-bold tracking-widest uppercase text-sm">Message from CEO</h3>
